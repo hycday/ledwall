@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4364"
+   height="12.875"
+   width="36.125"
+   version="1.1"
+   gorn="0"
+   sodipodi:docname="WS2813_pcb.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1027"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="27.403446"
+     inkscape:cx="17.274732"
+     inkscape:cy="4.3710638"
+     inkscape:window-x="1912"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4364" />
+  <desc
+     id="desc2">
+    <referenceFile>WS2813_Strip_pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs4366" />
+  <metadata
+     id="metadata4369">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     y="0.10744825"
+     id="rect8769"
+     x="0.10749707"
+     height="12.659958"
+     width="35.916397"
+     style="fill:none;stroke:#ffffff;stroke-width:0.19244955;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     gorn="0.3.0.0.0.0.1.3" />
+  <g
+     id="copper1">
+    <g
+       id="copper0">
+      <rect
+         style="fill:#faffff;fill-opacity:1;stroke:#f6ca34;stroke-width:1.7990551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="4.219358"
+         x="2.3344326"
+         height="4.4361386"
+         width="4.4361386"
+         id="rect911" />
+      <path
+         inkscape:connector-curvature="0"
+         gorn="0.3.0.0.0.0.0.0.1"
+         style="display:inline;fill:none;stroke:#f6ca34;stroke-width:1.7990551;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="connector2pin"
+         d="m 15.800496,6.4374272 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" />
+      <path
+         inkscape:connector-curvature="0"
+         gorn="0.3.0.0.0.0.0.0.2"
+         style="display:inline;fill:none;stroke:#f6ca34;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="connector3pin"
+         d="m 24.798491,6.4374272 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" />
+      <path
+         inkscape:connector-curvature="0"
+         gorn="0.3.0.0.0.0.0.0.2"
+         style="display:inline;fill:none;stroke:#f6ca34;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="connector3pin-4"
+         d="m 33.796486,6.4374272 a 2.25,2.25 0 0 1 -4.5,0 2.25,2.25 0 1 1 4.5,0 z" />
+    </g>
+  </g>
+</svg>
